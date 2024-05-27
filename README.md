@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eanyx
 - 👀 I’m interested in Open Source, Linux and programming.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AI with python
 - 💞️ I’m looking to collaborate on cool opensource projects
 - 📫 How to reach me olivier.michel.92@gmail.com
 
