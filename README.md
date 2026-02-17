@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source, Linux and programming.
 - 🌱 I’m currently learning AI and Quantum computing
 - 💞️ I’m looking to collaborate on cool opensource projects
-- 📫 How to reach me olivier.michel.92@gmail.com
+- 📫 How to reach me eanyx123@gmail.com
 
 <!---
 eanyx/eanyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
